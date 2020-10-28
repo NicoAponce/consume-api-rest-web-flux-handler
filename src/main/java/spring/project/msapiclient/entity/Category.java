@@ -1,0 +1,1 @@
+package spring.project.msapiclient.entity;public class Category {    public String id;    public String name;    public Category(String id, String name) {        this.id = id;        this.name = name;    }    public Category() {    }}

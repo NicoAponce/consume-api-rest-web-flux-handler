@@ -1,0 +1,1 @@
+package spring.project.msapiclient.entity;public class Product {    public String id;    public String name;    public Double price;    public String photo;    public Category category;}
